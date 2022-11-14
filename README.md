@@ -3,8 +3,12 @@ This React app is used for monitoring jobs and managing the positions you are cu
 
 ## Screenshots
 ![img](https://i.postimg.cc/FFf03wXb/main-jobs.png)
+
+
 ![img](https://i.postimg.cc/7Z6G0YhZ/graph-job.png)
-![img]https://i.postimg.cc/tJP1wQ9L/jobs-dash-img.png)
+
+
+![img](https://i.postimg.cc/tJP1wQ9L/jobs-dash-img.png)
 
 ## Functionalities
 - Authentication
@@ -20,3 +24,7 @@ This React app is used for monitoring jobs and managing the positions you are cu
 - React Toastify package
 - Moment library
 - Recharts library
+
+
+# Deployment
+- Deployed to [Firebase](https://firebase.google.com/)
