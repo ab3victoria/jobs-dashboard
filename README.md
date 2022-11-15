@@ -19,6 +19,7 @@ This React app is used for monitoring jobs and managing the positions you are cu
 
 
 # Technologies & Sources:
+- Redux
 - Styled Components
 - [undraw - SVG images ](https://undraw.co/ )
 - React Toastify package
