@@ -24,8 +24,8 @@ This React app is used for monitoring jobs and managing the positions you are cu
 - [undraw - SVG images ](https://undraw.co/ )
 - [Hero Icons](https://heroicons.com/)
 - React Toastify package
-- Moment library
-- Recharts library
+- Moment package
+- Recharts package
 
 
 # Deployment
